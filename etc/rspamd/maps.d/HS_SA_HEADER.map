@@ -1,0 +1,929 @@
+/^From:.*\@payapl\.fr/
+/^Received:.*test\@sideaitalia\.com.*/
+/^Subject:.*inolar\.com/
+/^Return-Path:.*\<noreply\@direkt\-sicher\.com\>/
+/^Return-Path:.*site258\@www\.pand331\.nl/
+/^Received:.*puck844\.server4you\.de.*/
+/^From:.*\<olgaber[1-9]\@yandex\.ru\>.*/
+/^From:.*jpberlin admin \<drepcaulfield\@eircom\.net\>.*/
+/^Received:.*envelope\-from \<konductt\@server\.mwhdns\.com.*/
+/^From:.*dpaypal\@dpaypal\.at/
+/^Subject:.*=?koi8-r?B?ycvBINDPIMTPzMfBzSDLz83Qwc7JyS4=?=.*/
+/^Subject:.*Company founded in Gibraltar is currently looking for European sector based labor force.*/
+/^From:.*\@papertocad\.de/
+/^From:.*admin\@mailbox\.com.*/
+/^From:.*Billing\-Service\@NetPay\.de.*/
+/^Subject::.*V[^a-z]{3,6}[1,i,l][^a-z]{3,6}A[^a-z]{3,6}G[^a-z]{3,6}R[^a-z]{3,6}A/
+/^Sender:.*phpscript\@ws[0-9]\.microware\.hu.*$/
+/^Subject:.*async\.facebook\.com.*$/
+/^Subject:.*Ihr freundlicher Support$/
+/^From:.*\@deutschseo\.com/
+/^X-RocketYMMF:.*webluck1847\@att\.net/
+/^Subject:.*offizielle sieger/
+/^From:.*\@verifiedbyvisa\.fr*/
+/^Reply-To:.*\@verifiedbyvisa\.fr/
+/^Reply-To:.*girl\@mailisfree\.com/
+/^Subject:.*vous devez reglez votre compte free\.fr/
+/^Message-ID:.*mscreator[0-9][0-9]\.fagms\.de/
+/^Subject:.*gelegenheit zur webverbesserung/
+/^Subject:.*Achtung! Ihr paypal-Konto wurde begrenzt!/
+/^X-PHP-Script:.*campnetworking\.ca\/images\/susscesful_soties\/nfoscomm\.php*/
+/^Subject:.*zusammenarbeit zur webverbesserung/
+/^X-PHP-Script:.*biditsaleit\.com\/dz\/mailer\.php*/
+/^Subject:.*from GMC manufacturer/
+/^Return-Path:.*ventouxl\@ns[0-9]{3}\.medialook\.net/
+/^From :.*Topillen Apotheke /
+/^Subject:.*Top Apotheke/
+/^message-ID:.*phx\.gbl/
+/^List-Unsubscribe:.*e\-mailing\.pymac\.fr\/[a-z]\/[a-z]\/[0-9]{4}\/[0-9]{6}/
+/^Return-Path:.*\@oanm[0-9]{2}\.com/
+/^Subject:.*lighting products from GMC manufacturer/
+/^Subject:.*OFFIZIELLE GEWINNBENACHRITIGUNG/
+/^Subject:.*God bless you as you get back to me/
+/^List-Unsubscribe:.*tk3\.sbc01\.com\/sy\/\*/
+/^List-Unsubscribe:.*tk3\.sbc01\.com\/sy\/\*/
+/^Message-ID:.*[0-9]{8}\-[0-9]{8}\-[0-9a-z]{3}\-0\@S102*/
+/^Subject:.*YOUR EMAIL HAS WON YOU GBP*/
+/^From:.*ventouxl\@ns[0-9]?[0-9]\.medialook\.net/
+/^From:.*gestioncreditexpert_[0-9]{4}\@gce\-mailer\-[0-9]{2}\.com/
+/^From:.*erosvision\.com/
+/^X-PHP-Script:.*mars\.rapidvps\.com\/~emoosite\/tmp\/install_4b10cb87da737\/languages\/site\/husa\.php*/
+/^Thread-Index:.*Acvd0cAG8IQaasqAcNaztWODnM30ZA/
+/^Subject:.*aktualisieren Sie Ihre Bankdaten/
+/^Subject:.*Erfahrungsbericht Bernd Matthes/
+/^Subject:.*IP PBX/
+/^From:.*Nicoll Christopher John/
+/^From:.*SHELL PETROLEUM/
+/^From:.*Versicherungs Dienst/
+/^From:.*soft\-cd\.com/
+/^From:.*\"Oxford Business News\" \<info\@oxford\-bn\.org\>/
+/^Subject:.*=\?iso\-8859\-1\?Q\?Leider_st=F6\?= =\?iso-8859-1\?Q\?ren_Sie\.\?\=/
+/^From:.*Elena.*\@eposta\.ru/
+/^Subject:.*Results 2008 \!/
+/^From:.*Sponsor Lotto/
+/^From:.*nodiet\@web\.de/
+/^From:.*edirects\.com/
+/^Subject:.*WINNING NOTIFICATION\!\!\!/
+/^Subject:.*Wir wissen was Frauen wollern/
+/^From:.*newscd\.org/
+/^From:.*mms\-und\-sms\-gutschein\.com/
+/^Subject:.*CONFIRM YOUR WINNING/
+/^Subject:.*Gratisaktion \- Du wurdest ausgewaehlt unseren neuen SMS/
+/^From:.*Seitensprung/
+/^Received:.*germans\-mailc\.com/
+/^Received:.*stienitzsee\.info/
+/^Subject:.*Bonus 555eu/
+/^Subject:.*(ATTN|TO) *:.*SALES? *MANAGER/
+/^Subject:.*Take this postcard now\!/
+/^Subject:.*FUXIN/
+/^From:.*marion\.backera/
+/^Subject:.*kein spam\. aber eine Antwort auf ihre Fragen/
+/^Subject:.*4,8 Mill\. Osteuropaeer durch Fischer\-Volmer Erlass/
+/^Subject:.*Auf Streife durch den Berliner Wedding/
+/^Subject:.*Auslaender bevorzugt/
+/^Subject:.*Auslaenderpolitik/
+/^Subject:.*Deutsche werden kuenftig beim Arzt abgezockt/
+/^Subject:.*Du wirst zum Sklaven gemacht\!\!\!/
+/^Subject:.*Graeberschaendung auf bundesdeutsche Anordnung/
+/^Subject:.*Hier sind wir Lehrer die einzigen Auslaender/
+/^Subject:.*Paranoider Deutschenmoerder kommt in Psychiatrie/
+/^Subject:.*Tuerkei in die EU/
+/^Subject:.*Verbrechen der deutschen Frau/
+/^Subject:.*Skandal in Berlin/
+/^Subject:.*Auslaendergewalt: Herr Rau, wo waren Sie?/
+/^Subject:.*Bankrott des Gesundheitswesens durch Auslaender!/
+/^Subject:.*Wer an ein Tabu ruehrt, muss und darf vernichtet werden/
+/^Subject:.*EU Beitritt der Tuerkei/
+/^Subject:.*Bin ich zu weltfremd.*Ich glaube wohl kaum/
+/^Subject:.*Die Deform der sozialen Ordnung/
+/^Subject:.*Moschee-Bau in Deutschland/
+/^Subject:.*Augen auf.*So sieht es aus/
+/^Subject:.*Paradies Bundesrepublik - Rente fuer die Welt/
+/^Subject:.*Libanesen in Berlin/
+/^Subject:.*Garather klagen ueber eskalierende Gewalt im Stadtteil!/
+/^Subject:.*Auslaender erschleichen sich zunehmend Sozialleistungen/
+/^Subject:.*Auslaenderkriminalitaet steigt weiter!/
+/^Subject:.*Das kann unmoeglich sein -Leserbrief/
+/^Subject:.*Nein zum Zuwanderungsgesetz !/
+/^Subject:.*Skandalurteil in Darmstadt/
+/^Subject:.*Auf Kosten der deutschen Beitragszahler und Rentner!/
+/^Subject:.*Wir haben die Auslaender doch geholt/
+/^Subject:.*TUERKEN\-TERROR AM HIMMELFAHRTSTAG/
+/^Subject:.*MULTI\-KULTI\-BANDE TYRANNISIERTE MITSCHUELER/
+/^Subject:.*ASYLANTEN BEGRABSCHTEN DEUTSCHES MAEDCHEN/
+/^Subject:.*Was Deutschland braucht, sind deutsche Kinder!/
+/^Subject:.*Diplomatische Zensur/
+/^Subject:.*EU gibt Erwerbslosen volle Freizuegigkeit/
+/^Subject:.*Richter unterstuetzt kriminelle Auslaenderin/
+/^Subject:.*Auslaenderanteile in Schweizer Gefaengnissen/
+/^Subject:.*Augen auf\! (So sieht es aus\!)/
+/^Subject:.*Neue Voelkerwanderung droht\!/
+/^Subject:.*Client TOS Notification/
+/^Subject:.*Postbank Sicherheitsaktualisierung/
+/^Subject:.*Sicherheitsaktualisierung/
+/^Subject:.*Deutsche-bank Sicherheitsaktualisierung/
+/^Subject:.*internet.*pharmacy/
+/^Subject:.*Affordable Premade Logos/
+/^Subject:.*Best prices.*on the net/
+/^Subject:.*Phentermine/
+/^Subject:.*Die Sahne tropft heraus/
+/^Subject:.*Replica Watch Models/
+/^Subject:.*Sehr geehrter Postbankkunde/
+/^Subject:.*AIR ANTALYA/
+/^Subject:.*Search engines \- submit/
+/^Subject:.*Search engine traffic/
+/^Subject:.*More efficient than via\-gra/
+/^Subject:.*Mailadresse unbekannt/
+/^Subject:.*SARS\: Viet Nam removed from list of affected countries.*/
+/^Subject:.*Wichtig \!\!\! Die Telefonnummer die du haben wolltest/
+/^Subject:.*Weihnachtsbaeume ab EURO.*/
+/^Subject:.*Neue Version zum downloaden.*/
+/^Subject:.*Frants for.*/
+/^Subject:.*FREEE.*/
+/^Subject:.*Webdesign leicht gemacht.*/
+/^Subject:.*Check this Message Board Out.*/
+/^Subject:.*SAVE GERMANY VOTE STOIBER.*/
+/^Received:.*luftmensch\.com/
+/^From:.*Mandy Tweed/
+/^Received:.*from privat .*\.aol\.com/
+/^Received:.*tpg_exsrvr\.thepowellgroup\.com/
+/^Received:.*from mx?\.eudoramail\.com/
+/^Subject:.*FW\: Warm this world by truely Love$/
+/^Subject:.*Fwd\:Peace BeTweeN AmeriCa and IsLaM\!/
+/^Subject:.*ILOVEYOU/
+/^Subject:.*(Re: )*BubbleBoy is back\!/
+/^Subject:.*Accept Credit Cards/
+/^Subject:.*How Soon Are You Going To Retire\?/
+/^Subject:.*\[ADV\:/
+/^Subject:.*ADV\:/
+/^Subject:.*Snowhite and the Seven Dwarfs \- The REAL story\!/
+/^Subject:.*Are you losing sleep over debt\?/
+/^Subject:.*a stock that makes money/
+/^Subject:.*high earnings may soar/
+/^Subject:.*See the VIDEO Britney/
+/^Subject:.*FW\: VIDEOS OF BRITNEY/
+/^Subject:.*STOLEN HARDCORE VIDEO/
+/^Subject:.*NEW CASH PROGRAM/
+/^Subject:.*Hot Celebs 100\% Exposed\!/
+/^Subject:.*Make It Happen/
+/^Subject:.*If you need extra money\.\.\.read this\!/
+/^Subject:.*Recieve A Free Quote/
+/^Subject:.*We Have Low Mortgage Rates\!\!\!/
+/^Subject:.*Re: travel confirmation/
+/^Subject:.*Receive a FREE SAMPLE of Viagra for Women/
+/^Subject:.*DOUBLE YOUR BREAST SIZE! GUARANTEED/
+/^Subject:.*Ground Breaking Business \"Starts Today\"/
+/^Subject:.*AS SEEN ON T\.V/
+/^Subject:.*99 Million Email Addresses \- \$99/
+/^Subject:.*50 Million Fresh Email Addresses/
+/^Subject:.*200 Million Email Addresses \- \$149/
+/^Subject:.*Get Viagra Online Now \!\!\!/
+/^Subject:.*Boost Your Windows Reliability/
+/^Subject:.*Hot Penny Stock Pick/
+/^Subject:.*Need a great deal on a home loan\?/
+/^Subject:.*I used to be in debt too\!/
+/^Subject:.*Work less, make more/
+/^Subject:.*Drive Your Web Counter Ballistic/
+/^Subject:.*Re\: have you considered doing this\?/
+/^Subject:.*Work from home and get paid\!/
+/^Subject:.*Enter To Win One of 25 Dream Vacations\!\!/
+/^Subject:.*Do You Accept Credit Cards/
+/^Subject:.*Home Owners ONLY/
+/^Subject:.*Your Credit Info/
+/^Subject:.*Do you owe money\?/
+/^Subject:.*Need a Home Loan\? We Can Help\!\!/
+/^Subject:.*stock alert/
+/^Subject:.*contact lenses/
+/^Subject:.*ENLARGE YOUR PACAKGE GUARANTEED/
+/^Subject:.*ENLARGE YOUR PACKAGE GUARANTEED/
+/^Subject:.*We purchase uncollected Judicial Judgments/
+/^Subject:.*Increase Your Gas Mileage by up to 27\%\!/
+/^Subject:.*Willow Flower Herb For Prostate Problems\./
+/^Subject:.*NEW Increase Your Gas Mileage by 27\%/
+/^Subject:.*The easiest way to make money on the internet\!/
+/^Subject:.*Re: think about this.../
+/^Subject:.*think about this.../
+/^Subject:.*At Last, Herbal V, the All Natural Alternative\!/
+/^Subject:.*Make Money In Your Sleep\! /
+/^Subject:.*FREE Satellite TV System/
+/^Subject:.*About your site/
+/^Subject:.*No Deposit VISA or Master Card\!/
+/^Subject:.*FREE Auto Insurance Quote\!/
+/^Subject:.*Need money for college\?/
+/^Subject:.*(s+[[^]]*])?s+[-.{<]*ADV(ertisement)?[-:.>}s]/
+/^Subject:.*I viewed your site\-/
+/^Subject:.*Millions?s*(E?-?MAILs*)?ADDRESS/
+/^Subject:.*sTime[: ]+d+:d+:d+ [AP]Ms*$/
+/^Subject:.*new photos from my party\!/
+/^Subject:.*Liebe freunde, es tropft wieder/
+/^Subject:.*The best gift a wife or girlfriend could ever ask for/
+/^Subject:.*Increase your drive, stamina, size and performance\.\. reach your potential\!/
+/^Subject:.*Discover your true sexual potential/
+/^Subject:.*you could need it Pharamaceu tical/
+/^Subject:.*Nearly 65\% of women claim they wish their lover was more adept\.\. let us help/
+/^Subject:.*Increased spending on homeland security has created incredible opportunity/
+/^Subject:.*The security explosion/
+/^Subject:.*Ermittlungsverfahren gegen Sie.*/
+/^Subject:.*Bekommen Sie Uhren.*/
+/^To:.*\<ABALTAS\@europarl\.eu\.int\>/
+/^To:.*ACERCAS\@europarl\.eu\.int/
+/^To:.*infomail\@recurrent\.com/
+/^From:.*steve\-larson1\@execs\.com/
+/^From:.*\@execs\.com*/
+/^From:.*enews\@uscav\.com/
+/^(To|From|Cc|Reply-To):.*Investor Alert/
+/^(To|From|Cc|Reply-To):.*friend\@(public\.com|localhost\.net)/
+/^(To|From|Cc|Reply-To):.*[ <]d+\@(onramp|prodigy|uu)\.net/
+/^(To|From|Cc|Reply-To):.*\@funstuff2000\.net/
+/^(To|From|Cc|Reply-To):.*(infowatch\.net|nakedmaild?\.com)/
+/^(To|From|Cc|Reply-To):.*customer\@aol/
+/^To:.*ListMembers\@theneteffect/
+/^Reply-To:.*\@(china\.com|rever\-dreaming\.com|btamail\.net\.cn|amdpress\.com|nakedmaild?\.com|big\-salesfor\.you\-now\.net)/
+/^(Received|Message-Id|X-(Mailer|Sender)):.* (E-Broadcaster|Emailer Platinum|eMarksman|Extractor|e-Merge|from stealth[^.]|Global Messenger|GroupMaster|Mailcast|MailKing|Match10|MassE-Mail|massmail.pl|News Breaker|Powermailer|Quick Shot|Ready Aim Fire|WindoZ|WorldMerge|Yourdora|SEKOFOXM|Blat v3)/
+/^X-Server:.*Advanced Direct Remailer/
+/^Comment:.*Authenticated sender is/
+/^(To|From|Cc|Reply-To):.*\@sexyfun\.net/
+/^Content-Disposition:.*Multipart message/
+/^Date:.* \[AP\]M/
+/^Date:.*[+-](1[4-9]|2d)dd$/
+/^From:.*icyhot\.bakas24\.de/
+/^Subject :.*You wanna check how good in bed I am\?.*/
+/^Subject:.*dog supply/
+/^From:.*phoenix-[a-zA-Z0-9]{3}.edu/
+/^From:.* \<noreply\@jpberlin\.de\>.*/
+/^To:.*\<noreply\@jpberlin\.de\>/
+/^From:.*fabianat\@alice\.it/
+/^From:.*itservice\@berlin.de/
+/^From:.*weblinkservices281\@gmail\.com/
+/^FROM:.*mpmz\.com\.ua/
+/^From:.*\@boonrawd\.co\.th/
+/^From:.*sample\@email.tst/
+/^Subject:.*Postbank Benachrichtigung - Ihre Internet-Banking gesperrt/
+/^Subject:.*=?utf-8?q?August_Ank=C3=BCndigun/
+/^From:.*\@Email Inc/
+/^Subject:.*'Echte' Kreditkarte mit >6< Monatseinkommen Limit ohne SCHUFA/
+/^Subject:.*SCHUFAfrei jetzt sofort Geld bekommen/
+/^Reply-To:.*gogle\.eurolotto\@gmail\.com*/
+/^From:.*sales[0-9]\@socilamediapro\.info/
+/^From:.*pratt-whitney\@web\.de/
+/^Subject:.*=\?utf-8\?Q\?Wichtig:_Ungew=C3=B6hnliche_Aktivit=C3=A4ten_in_Ihrem_Konto\?=/
+/^From:.*contrataciones\@inn\.gob\.ve/
+/^From:.*spam\@co\.za/
+/^From:.*\@maxispoint\.com/
+/^Reply-To:.*evarich4life\@gmail\.com/
+/^From:.*\=\?ISO-8859-1\?Q\?\=A9_sparkasse/
+/^Reply-To:.*blackcurrant46631\@gmail\.com/
+/^Subject:.*Ungewoehnliche Zahlungsaktivitaeten Ihres Kontos/
+/^Subject:.*ãªã¢ã¯ ã¹ã¼ãã±ã¼ã¹ æå®å¤/
+/^Subject:.*\?UTF-8\?Q\?Warnung!_Postfach_=C3=BCberschritten\?=/
+/^Disposition-Notification-To :.*brijesh\.websitedeveloper\@gmail\.com/
+/^From=~ /djmasier\@ncsu\.edu/
+/^From:.*\<paypal\@intI\.service\.com\>/
+/^Subject:.*Voice Message Notification/
+/^From:.*\service\@mitsui\com\.au/
+/^From:.*=?utf-8?Q?RU-CENTER?=/
+/^Subject:.*=?utf-8?Q?Holiday=20?=/
+/^Return-Path :.*sunndavmao\@yahoo\.com/
+/^Subject:.*Dear Guest,- I am Karolina, on-line video administrator/
+/^From:.*larimermccarya868\@gmail\.com/
+/^Reply-To:.*lana83lave\@rambler\.ru/
+/^X-Mailer:.*\b(E-Broadcaster|Emailer Platinum|eMarksman|Extractor|e-Merge|from stealth[.]|Global Messenger|GroupMaster|MailKing|Match10|MassE-Mail|massmail\.pl|News Breaker|Quick Shot|Ready Aim Fire|WindoZ|WorldMerge|Yourdora|SEKOFOXM|Blat.v3.1.1\b)/im
+/^Subject :.*Gain Organic Traffic:/
+/^Reply-To:.*mailcontrolunits\@mail\.com/
+/^From:.*okoidahamilton\@gmail\.com/
+/^Return-Path:.*nobody\@nic\.ru/
+/^From:.*vivianefarias\@pampili\.com\.br/
+/^From:.*florespraz4\@zipmail\.com\.br/
+/^From:.*michelapeterson89\@yahoo\.com/
+/^From:.*oefa\.gob\.pe/
+/^From:.*feintour\.net/
+/^From:.*tuerkeireisegewinn\.net/
+/^Return-Path:.*okoidahamilton\@gmail\.com/
+/^From:.*Jpberlin\.de Update/
+/^Return-Path:.*mrgugaster\@gmail\.com/
+/^Received:.*srv11\.sysproserver\.de/
+/^From:.*mrgugaster\@gmail\.com/
+/^Return-Path:.*rico4000\@aucegypt\.edu/
+/^Return-Path:.*batran\@aucegypt\.edu/
+/^Reply-To:.*perrychang\@yeah\.net/
+/^Return-Path:.*nemekh\@mongol\.net/
+/^Return-Path :.*samuimoo\@melkus\.websitewelcome\.com/
+/^From:.*mpv6611\@yahoo\.co\.jp/
+/^Return-Path :.*fcpmags\@fcp\.fcpmags\.com/
+/^From:.*soutogomes\@iol\.pt/
+/^From:.*jimmy_socialalley\@aol\.com/
+/^From:.*\@aucegypt\.edu/
+/^From:.*\@barantrag\.com/
+/^X-Google-Sender-Auth:.*X-Google-Sender-Auth/
+/^Return-Path :.*pay\@pal\.com/
+/^FROM:.*Toursdiscount\@gmail\.com/
+/^Subject :.*Zustellung Ihrer Kreditkarte/
+/^Subject :.* ?UTF-8?B?MjAgRnJlaXNwaWVsZSBhbHMgRGFua2VzY2jDg8K2biBmw4PCvHIgSWhyZSBBbm1lbGR1bmc/
+/^Subject :.*utf-8?q\?Ihre_Online-Zug=C3=A4nglichkeit_____/
+/^Subject:.*iso-8859-1\?Q\?Kre_di_tk_=FCnd_ig_ung=3F__Unser__Angeb_ot_l=F6st_Ihre_Pro\?=/
+/^Reply-To:.*tolleideen\.net/
+/^From:.*tolleideen.net/
+/^Return-Path:.*mendu\@hispeed\.ch/
+/^Return-Path:.*gapp\.az/
+/^From:.*gapp\.az/
+/^From:.*rayban\.sunglasses/
+/^From:.*ises\.net004\@gmail\.com/
+/^From:.*contact\@france-usinage\.fr/
+/^Return-Path:.*contact\@france-usinage\.fr/
+/^From:.*stankovicse\@askhatvan\.hu/
+/^Return-Path:.*anandteknow\.com/
+/^From:.*papalolo\@q\.com/
+/^Received:.*s15379600\.onlinehome-server\.info/
+/^Return-Path:.*mmercer9\@kent\.edu/
+/^From:.*Beauftragte Anwaltschaft Ebay GmbH/
+/^From:.*Anwaltschaft Paypal GmbH/
+/^From:.*.YourCasino/
+/^From:.*movqvqtr\@gmail\.com/
+/^Reply-To:.*movqvqtr\@gmail\.com/
+/^Return-Path:.*kelyfugoldup\@gmail\.com/
+/^From:.*kelyfugoldup\@gmail\.com/
+/^From:.*raudat\@gmail\.com/
+/^Reply-To:.*raudat\@gmail\.com/
+/^Return-Path:.*con_tacts\@mail\.com/
+/^Received:.*grevs\@rasf\.ru/
+/^From:.*con_tacts\@mail\.com/
+/^Reply-To:.*headoffices2012\@gmail\.com/
+/^Message-ID:.*relay\.amlsport\.ru/
+/^Sender:.*notices\@domainnotices8659\.com/
+/^AntiAbuse:.*RS5IVUVMU0UtQU5LRVJNQU5OQEpQQkVSTElOLkRF/
+/^Received:.*host\.domainnotices[0-9]{0,4}\.com/
+/^From:.*noreply\@popfax\.com/
+/^Reply-To:.*juan_morato\@yahoo\.es/
+/^Received:.*wrdunn.co.uk/
+/^From:.*<sepa.sicherheit\@easybank\.at.*/
+/^From:.*TRACK-FINANCE <info\@track-finance\.com/
+/^List-Ubsubscribe:.*www.apotheke-germany.co.uk/
+/^Return-Path:.*bangzhu\@att\.net/
+/^From:.*bangzhu\@att\.net/
+/^Subject:.*=\?utf-8\?B\?a86\/1bh00L4gaWQ6IDYzNDI5NDE=\?=/
+/^Reply-To:.*john_max11114\@yahoo\.com/
+/^Return-Path:.*stanman\@absamail\.co\.za/
+/^X-Mailer:.*Synapse - Pascal TCP\/IP library by Lukas Gebauer/
+/^Return-Path:.*Tatiana-15879722\@newladies0614\.com\.ua/
+/^From:.*Tatiana-15879722\@newladies0614\.com\.ua/
+/^From:.*ViagraKaufen/
+/^Subject:.*easy Potenz bestellen/
+/^Subject:.*Sertha Brindes/
+/^From:.*\@mail\.autochina360\.com/
+/^Subject:.*\?gb2312\?B\?19TW98a3xcahsMquway9taGxtcTB7dK71ta94rbBIC0g1tC5+sb7s7Wy+tK1\?/
+/^From:.*vertrieb\@consultlab\.de/
+/^Subject:.*noreply\@JPBerlin\.de/
+/^From:.*\@bipbup\.com\.br/
+/^From:.*\@gtevent\.co\.uk/
+/^From:.*\@anticellulitenartikel\.me/
+/^From:.*\@allyes-tech\.com/
+/^List-Unsubscribe:.*\<http\:\/\/www\.e\-posta\.info\/unsubscribe\.php/
+/^X-Mailer:.*oemPro/
+/^From:.*\<newsletter\@jojormall.me\>/
+/^Return-Path:.*karolin\.kaestner\@fettwegbeispiel\.me/
+/^From:.*xinyang05\@xy\-sy\.net/
+/^From:.*wuchangbiz\@vip\.163\.com/
+/^From:.*gemtksrclk\@gmail\.com/
+/^From:.*scrapelndyct\.biz/
+/^From:.*\<schwoto\@gmail\.com\>/
+/^Reply-To:.*no-reply.diskretklick693.eu/
+/^List-Unsubscribe:.*mail[0-9]{1}.haarausfallloesung.me\/unsubscribe.php/
+/^X-Authenticated-User:.*\@ciaccess.com/
+/^To:.*Peer Heinlein.*akademie\@heinlein-support\.de/
+/^From:.*commerciale\@scuolacoaching\.org/
+/^Subject:.*The Stocktip Of The Year/
+/^Subject:.*are you ready for this/
+/^Subject:.*Important Message\: I beg you to read this letter\!/
+/^Return-Path:.*l110433\@web\-193115\.goracer\.de/
+/^From:.*noreply\.inkassodienstleistung\@dispatchemail\.org/
+/^From:.*daegregor\@correo\.inia\.gob\.ve/
+/^From:.*iTunes\.mail\@Store\.fr/
+/^Subject:.*Ihre Kreditkarte beschrankt war/
+/^Subject:.*WICHTIGE Information zur Deutschegarantie Lizenz!/
+/^From:.*Sparkasse GmbH/
+/^Subject:.*nike air jordan pas cher/
+/^From:.*jxxxdxht\@gmail\.com/
+/^From:.*iTunes00\@store\.net/
+/^From:.*ladiesville0814\.com\.ua/
+/^From:.*adugs\@adugs\.lv/
+/^Subject:.*..\. November 2014.* ..:..:../
+/^Subject:.*FinanzGruppe Fiducia/
+/^Subject:.*Code : \(.*\)/
+/^From:.*telekom\.de.*pastoralbuero\@sankt-petrus-bonn\.de/
+/^Reply-To:.*trevorw756\@yahoo\.co\.uk/
+/^From:.*jroberts3\@ccsj\.edu/
+/^From:.*Nor-eply\@visa\.com/
+/^From:.*ebcjsxzht\@gmail\.com/
+/^From:.*vinayak\@softaculous\.com/
+/^From:.*admin\@1876\.cn/
+/^Subject:.*1 Pille Zacti Plus gleich 1 Kg weniger/
+/^Reply-To:.*alexbetts47\@yahoo\.com/
+/^From:.*test\@ELBOURI\.com/
+/^From:.*lenderloanfirm\@foxmail\.com/
+/^List-Unsubscribe:.*\<mailto\:GBZDQVRRMYYXKRKBHFJXUTLLMFIFGYTENBZHQZLNJVRDA6KBKN3U45LQIRNEEOBQNJSHGPI\.35078\.45944\.7\@unsub-sj\.mktomail\.com\>/
+/^From:.*bond\.9664740\@gmail\.com/
+/^From:.*wgedition\.62507\@gmail\.com/
+/^From:.*sisiwo\@nnnrw\.com/
+/^From:.*paypaI\.com/
+/^From:.*webseoservices1\@hotmail\.com/
+/^Subject:.*\=\?UTF-8\?B\?SWhyIFBheXBhbCBLb250byBpc3QgZWluZ2VzY2hyw6Rua3QhIElocmUgTWl0aGlsZmUgaXN0IGdlZnJhZ3Q\=\?\=/
+/^From:.*2VydmljZUBwYXlwYWwuZGU/
+/^From:.*login2rosy\@gmail\.com/
+/^From:.*senina.alla2016\@yandex.com/
+/^From:.*kiryll\@pewm.eu/
+/^From:.*lianglongwo486\@21cn.com/
+/^Return-Path:.*info\@techlinedisk\.ru/
+/^From:.*xlemaz347405\@gmail.com/
+/^From:.*sever.me\@made.cn/
+/^From:.*hammi.made\@Made-in-China.biz/
+/^From:.*WangBruceCompany\@yeah.net/
+/^From:.*ahmed-noorr1\@outlook.com/
+/^From:.*jenniferrgbagbo\@yahoo.co.jp/
+/^From:.*omprakash\@taazaa.com/
+/^From:.*wpsupport\@scmapp.com/
+/^From:.*contact-numae.fr\@newsletter.mgdev-net.fr/
+/^From:.*alex37\@dssygroup.com/
+/^From:.*michealpeterss105\@gmail.com/
+/^Subject:.*sir\/ madam reply if you will be interested./
+/^From:.*wkbb02\@gmail.com/
+/^From:.*DHL Support/
+/^From:.*web447p2\@tux39.loginserver.ch/
+/^From:.*DHL Fachteam/
+/^From:.*info\@hostbirds.co.in/
+/^Subject:.*Greetings from Gambia\/ Hon\. Francis Liti Mboge/
+/^From:.*vankoloeger\@yandex\.com/
+/^From:.*guessansandra2010\@yahoo.co.jp/
+/^From:.* .*DHL Logistik-Spezialist/
+/^Subject:.*Paketzustellung im Zusammenhang mit der Sendung/
+/^From:.*david\.geletey\@zcredit\.org/
+/^From:.*DHL Transport-Team/
+/^From:.*PayPal \<service\@payen\.com\>/
+/^From:.*DHL Logistik-Spezialist/
+/^From:.*Frauen-Finder\" \<frauen-finder\@erfolg-durch-profis\.com\>/
+/^Subject:.*Ich will dich ficken\. Hier mein Profil/
+/^From:.*\=\?UTF\-8\?Q\?PayPal\?\=\<support\@pypal\.com\>/
+/^Subject:.*Ank\?\?ndigung Ihrer Sendung/
+/^From:.*\"DHL\.de\"/
+/^From:.*mr\_evans1245\@yahoo\.com/
+/^From:.*administrator\@social-webshop.com/
+/^From:.*info-null-punkte\@gmx.ch/
+/^From:.*contact\@satec.co.in/
+/^From:.*mirable24\@hotmail.com/
+/^From:.*mail\@pro-pitchers.com/
+/^From:.*news\@bestdepartment.net/
+/^From:.*news\@bio-fruits.net/
+/^From:.*\@erfolg\-durch\-profis\.(com|de)/
+/^Subject:.*I can show you how to fuel your brand and generate more revenue from search engines and social networks\./
+/^Subject:.*\=\?ISO\-8859\-1\?Q\?From\=3Amarketing\_\=3A\_Wie\_geht\_es\_\?\=/
+/^From:.*\@towerstream.com/
+/^From:.*bajas\@ticktag.es/
+/^From:.*uvqciexp\@aol.com/
+/^Reply-To:.*skyfinance01243\@gmail\.com/
+/^From:.*molly.mills1\@outlook.com/
+/^From:.*reply\@vip\.newdeals\.eu/
+/^From:.*SOLAR\-PANEL\-\-INSTALLATION\@usaenergysun\.party/
+/^Subject:.* Auto Response\: Find something you like\? Take  \â\\ 65\% off\. It\'s on us/
+/^From:.*\@micro-sender\.biz/
+/^Subject:.* Your Best Business Tool In Your Pocket/
+/^Message-ID:.*JavaMail\.RCKAPP\$\@rckapp/
+/^From:.*info\@onlineranking.net/
+/^From:.*david\@dadli.com/
+/^From:.*info\@biddsmanager.com/
+/^From:.*info\@extrabids.net/
+/^From:.*mail\@insidethecash.com/
+/^From:.*sales457\@aicl.pw/
+/^List-Unsubscribe:.*empfehlung-vom-profi.de/
+/^List-Unsubscribe:.*fascinating-magic.de/
+/^X-Mailer:.*Coremail Webmail Server Version SP_ntes V3.5 build 20150803(72677.7612) Copyright (c) 2002-2015 www.mailtech.cn yeah/
+/^Subject:.*Notice to Appear/
+/^Return-Path:.*admin\@pavpall.onmicrosoft.com/
+/^Reply-To:.*mrspokumblo\_003\@yahoo.com/
+/^From:.*mrspokumblo\@gmail.com/
+/^From:.*baghdadiali\_mahmudi\@yahoo\.co\.uk/
+/^To:.*zentrale\@comdirect.de/
+/^From:.*tina\_899tina\@yahoo\.co\.jp/
+/^From:.*JESPIRK\@aps\.k12\.co\.us/
+/^From:.*mail\@kinggenerator.com/
+/^From:.*consultorio\.raffadali\@aspag\.it/
+/^From:.*\@pro-application.com/
+/^From:.*ShariffMA\@ngha\.med\.sa/
+/^From:.*catc43\@aol\.com/
+/^From:.*job\.info187\@sapo\.pt/
+/^From:.*mariaelena\.garcia\@mecd\.es/
+/^From:.*William\.Hanna\@bridgew\.edu/
+/^From:.*\@makinwork.com/
+/^From:.*\@stringadvertising.biz/
+/^From:.*\@listemail.biz/
+/^From:.*\@mergesender.net/
+/^Reply-To:.*gurbhejsrafoundation\@inbox.lv/
+/^From:.*\@case-advertising.com/
+/^Return-Path:.*info\@1careergoal\.com/
+/^From:.*iden\-pro\@ukr\.net/
+/^From:.*sam\.campanale\@century21\.ca/
+/^From:.*nathey\@web.de/i
+/^Reply-To:.*diane.soto1901\@yahoo.com/
+/^From:.*infosky\@4kinder\.kz/
+/^From:.*nl.my-check.de/
+/^From:.*auevs.kredit.de/
+/^From:.*flug-jetzt.com/
+/^From:.*trusted\-nutriform\-deutschland\.com/
+/^From:.*news.de.cc/
+/^From:.*cse.ohio-state.edu/
+/^From:.*53596\-cf\@online\.de/
+/^From:.*\@tophosting.gq/
+/^From:.*\@beterservers.tld.cc/
+/^From:.*\@hikehosting.gq/
+/^From:.*\@servicehosting.usa.cc/
+/^From:.*\@dedicatedserver.nut.cc/
+/^From:.*\@bestservers.usa.cc/
+/^From:.*\@speedhost.flu.cc/
+/^From:.*\@websitehosting.tld.cc/
+/^From:.*\@bestresellerhosting.flu.cc/
+/^From:.*\@experthosting.flu.cc/
+/^From:.*\@takebesthosting.tld.cc/
+/^From:.*\@hostdadicate.nut.cc/
+/^From:.*\@fullyhosting.flu.cc/
+/^From:.*\@hostserver.nut.cc/
+/^From:.*\@bestvpssharedhosting.flu.cc/
+/^From:.*\@news-data\.net/
+/^From:.*stringadvertising.org/
+/^From:.*typicalhoster.biz/
+/^From:.*datamessage.biz/
+/^From:.*best.shopping.cx/
+/^From:.*\@10alogo.com/
+/^From:.*seoworld9\@gmail\.com/
+/^From:.*zainabinformation\@gmail.com/
+/^From:.*juanamahmood\@gmail.com/
+/^From:.*responsivewebsitedesign*/
+/^From:.*centiplex.com/
+/^From:.*deutschedomain.com/
+/^From:.*wie-teuer-ist-krankenkasse\.info/
+/^From:.*(general-auction.com|g-so.com|expo-machineries.com|glassonthego.com|buyoceanfrontcondo.com|boxerrescuela.com|bio-cheese.com|flightssa.com|sellingoffers.ne|axcelectronics.com)/
+/^Subject:.*purchasing order from Graham/
+/^From:.*canon\@rosnou.ru/
+/^From:.*seoramakant\@gmail\.com/
+/^From:.*nitimechamber\@yahoo\.com\.au/
+/^From:.*creativewebdesign189\@gmail\.com/
+/^From:.*jbrcc98\@q\.com/
+/^Subject:.*Cruise Job 2015/
+/^Return-Path:.*ibreply\@westpac\.co\.nz/
+/^Subject:.*MAILBOX RENEWAL ALERT/
+/^From:.*J.Bernardi\@t\-online\.de/
+/^From:.*interac.it.*/
+/^Return-Path:.*listcompanion\-mailer.com/
+/^From:.*limited\@pavpa.co/
+/^List-Unsubscribe:.*(server.winnerfaster.com|www.sharedbread.com|healthaddress.net|geekutopia.org|consumersocial.org|top10bluray.com|e-onlinecorrespondence.com|iem32.smtp.com|armstrusts.com|okdone.net|gogetcash.net)/
+/^Subject:.*~~~~~ Leaked CODE Could DEMOLISH The Entire U\.S\. Lotto Industry\. ~~~~~/
+/^From:.*hierrezeptfreianfordern.xyz/
+/^List-Unsubscribe:.*dontone.org/
+/^From:.*account\@zepeem\.com/
+/^From:.*\@int.paypal.com.*\@mailbox.org/
+/^X-PPP-Vhost:.*pappdorf.de/
+/^From:.*die\_walt7917\@aol\.com/
+/^From:.*PayPal.*Service .*\@mailbox.org/
+/^From:.*PayPal.* .*\@mailbox.org/
+/^From:.*info\@harrydfe\.biz/
+/^From:.*winnerfaster\.com.*/
+/^From:.*artinsitu.com.*/
+/^From:.*fusionwhiz.com.*/
+/^From:.*guar\@geldstrom\.eu/
+/^From:.*CyrilKoko\@netpartner\.com\.pl/
+/^From:.*webbizworld.org.*/
+/^From:.*kahayag.com.*/
+/^From:.*topeei.com.*/
+/^From:.*secorstrategy.com.*/
+/^Subject:.*artest light DIY/
+/^From:.*yeva-4u.com.ua.*/
+/^From:.*giuselip25\@aol\.com/
+/^From:.*omahasteaks.com/
+/^Received:.*Received: by webmail.century21.ca.*Authenticated sender: .*\@century21.ca/
+/^From:.*jennycliffwsm\@gmail.com*/
+/^From:.*rabatt24.org*/
+/^From:.*juergen112\@online.de*/
+/^From:.*yanyin\@citiz.net*/
+/^From:.*roland.schreder\@greenpdb.com/
+/^Subject:.*Ihre E-Mail hat gewonnen 920,000.00 00Euro/
+/^From:.*master-zen.com/
+/^From:.*tettelbachm1\@lasalle\.edu/
+/^Subject:.*=?utf-8?Q?Wie_Wichtig_ist_Ihnen_Ihr_F=C3=BChrerschein=3F?=/
+/^From:.*caroline191\@theonlybandever.com/
+/^From:.*\@v2mx2.pw*/
+/^From:.*\@bp1q7.xyz*/
+/^From:.*\@xln27.pw*/
+/^From:.*\@klickensiejetzt.com.de*/
+/^From:.*\@eyepinsbx.com*/
+/^From:.*\@direct-credit.ru*/
+/^From:.*\@ocramada.com*/
+/^From:.*\@paycpleee.com*/
+/^From:.*emiratefoundation1\@gmail\.com/
+/^From:.*eberwachung\@oraise.com/
+/^From:.*vc0198\@hotmail\.com/
+/^Subject:.*Bitte Sie Ihr Konto aktualisieren/
+/^Subject:.*Admin update !/
+/^Subject:.*Your account will be blocked!/
+/^Subject:.*Erzielen Sie RIESIGE Profite mit dieser Schweizer Methode!/
+/^From:.*sv-lindemann.de/
+/^Received:.*server.*\.zmaximum\.ru/
+/^Received:.*news-found\.com/
+/^From:.*\@hawaii-h\.com/
+/^Subject:.*Sparkasse Online-Banking Aktualisierung/
+/^Subject:.*Wie man mit einer Schweizer Methode reich wird/
+/^Subject:.*Best.tigung Ihrer Zahlung an PornHub\.com Limited/
+/^X-PHP-Script:.*chickenintheouthouse\.com/
+/^From:.*\@duckfishelectronics\.com/
+/^From:.*sslukaff\@embarqmail\.com/
+/^From:.*LUEG-SCHUTZ\@gmx.ch/
+/^From:.*sky\.finance6\@gmail\.com/
+/^Subject:.*W=C3=A4hlen_Sie_Ihre_GL=C3=9CCKSZAHL_und_gewinnen_Sie/
+/^From:.*Taschenalkotester.*/
+/^Subject:.*Dominic Newsletter von Ihrer Online-Apo-th-eke/
+/^Subject:.*Wichtige Mitteilung/
+/^Subject:.*Checkout the latest Funeral Insurance Options/
+/^Subject:.*Increase your income significantly/
+/^From:.*postar1\@coolschrank1.info/
+/^From:.*Stellvertretender Rechtsanwalt Pay Online AG/
+/^X-Source-Args:.*\/home4\/paduwork\/public_html\/pgdeptcompscguk.com\/ravi\/autoconf.php/
+/^X-Source-Dir:.*precisetechnosoft\.com\:\/public_html\/pgdeptcompscguk\.com\/ravi/
+/^Subject:.* =.iso-8859-1.B.aXRAb3BlbnN5bmVyZ3kuY29tIGZpbmRlIGRlaW5lIEFmZuRyZQ==.=/
+/^From:.*"Apple store" \<email\@bbox\.fr\>/
+/^Subject:.*Please\, I am Barr Issac William*/
+/^From:.*paypal.* .*\@mailbox.org/
+/^Subject:.*Projektfinanzierung Programm nach Germany/
+/^Subject:.*variety of sports equipment/
+/^Subject:.*Ihr Abonnement whatsapp Ihr Konto gesperrt wird/
+/^Subject:.*RE\: Soll ich Ihres einen anderen geben\?/
+/^Message-id:.*REYNALDOPC[a-z0-9]{32}\@ReynaldoPC/
+/^Message-id:.*VULTRGUEST[a-z0-9]{32}\@vulturguest/
+/^Subject:.*Die besten Schnappchen im Sommer 2016!/
+/^Message-id:.*VULTRGUEST[a-z0-9]{32}\@vultrguest/
+/^From:.*\@aktion05.xyz/
+/^Subject:.*Psychologe Entdeckt Abnehmautomatismus im Gehirn/
+/^Subject:.*Papierlose Rechlung.*/
+/^X-PHP-Originating-Script:.*eval\(\)\'d code.*/
+/^X-PHP-Script:.*eval\(\)\'d code.*/
+/^Subject:.*Wirkstoffen in einer Kombipackung fur Sparpreis.*/
+/^Subject:.*Potenzmittel online kaufen/
+/^From:.*gfgt.com.*/
+/^X-Mailer:.*Foxmail 6, 10, 201, 20 [cn]/
+/^Subject:.*Re-validate your mailbox/
+/^From:.*shirinkarryeva.mail.ru/
+/^Subject:.*Re: Unglaublich wie lange ich jetzt Durchhalten kann/
+/^Message-ID:.*<2016__________________mail@*/
+/^Received:.*by mail.superdigi.de/
+/^From:.*Bodo Schlecht.*info\@superdigi.org/
+/^Subject:.*Our_girls_are_missing_man/
+/^Subject:.*Datenbank-E-Mail in wenigen Minuten/
+/^Subject:.*Kontaktdatenbanken in wenigen Minuten/
+/^From:.*Stellvertretender Rechtsanwalt Amazon AG <anwalt\@ebay.de>/
+/^Subject:.*Ihre neue Heizung: Kostenlos dank staatlicher Förderung/
+/^From:.*Mailbox Service.*\@mail.ru/
+/^Subject:.*MAILBOX WARNING: Account Closure/
+/^Subject:.*Facebook 2017 - Mehr Umsatz zum halben Preis/
+/^From:.*Facebook 2017/
+/^From:.*Pillenversand/
+/^Subject:.*Roboter-Koffer die Sachen tragt/
+/^From:.*services paypal.* .*\@mailbox.org/
+/^From:.*\@binarysercretsrevealed.com/
+/^From:.*\@signal-verify.com/
+/^From:.*\@gute-tarife.online/
+/^From:.*\@uebersicht-?tarife201.\.org/
+/^From:.*Pillsgeneric/
+/^Subject:.*Super preise/
+/^From:.*\@gutetarife\.online/
+/^From:.*\@gutetarife\.org/
+/^From:.*\@neueste-tarifauskunft\.info/
+/^From:.*\@suioues\.com/
+/^From:.*\@netzsupport\.org/
+/^From:.*\@woodmebel\.co\.ua/
+/^Subject:.*MAILBOX WARNING: Account Update.*/i
+/^From:.*\@aktueller-testsieger-2106\.org/
+/^From:.*\@neuester-tarifvergleich.org/
+/^From:.*\@beitrag-rabatt.online/
+/^From:.*\@gewinnertarif.com/
+/^From:.*\@gute-tarife2017.org/
+/^Subject:.*MAILBOX WARNING: Account Update/
+/^From:.*\@server.servernation.org/
+/^From:.*\@drdailyinbox.com/
+/^From:.*\@memorialdelivery.com/
+/^From:.*\@celebrationdisclose.com/
+/^From:.*\sufferingoak.com/
+/^Subject:.*Dringend: Ihr Konto wurde gesperrt - Ihre Mithilfe ist erforderlich!/i
+/^From:.*\@suioues.com/
+/^From:.*\@abandonedluxury.co/
+/^From:.*\@binaryoptionsrobotmails.com/
+/^From:.*\@privilegepound.com/
+/^From:.*\@grindoccasion.com/
+/^From:.*\@fozzystyle.de/
+/^Subject:.*Re:1 ungewöhnlicher Tipp für einen flachen Bauch…/i
+/^From:.*\@news-mailer.eu/
+/^From:.*docyrekyuguia\@mail.ru/i
+/^From:.*\@accountreg.com/
+/^From:.*\@neuestetarif-news.org/
+/^From:.*\@tarif-?verlaengert.(org|info)/
+/^From:.*\@tarifinfo-?20...(com|org)/
+/^From:.*\@paraded.eu/
+/^From:.*\@schnellervergleich.org/
+/^From:.*\@scheepsklokken.nl/
+/^Subject:.*Bitte bestätigen Sie Ihren Einkauf!/i
+/^From:.*\@siegertarif-?bhv.(org|net)/
+/^From:.*\@pitchter.com/
+/^From:.*\@qbcoaches.com/
+/^From:.*\@neuerpkvtarif-?20..?.com/
+/^From:.*\@flu.cc/
+/^From:.*\@pkv-?ueberblick.(com|org)/
+/^From:.*\@guenstiger-?pkvtarif.com/
+/^From:.*\@tarif-?neu.org/
+/^From:.*\@onedrive.biz.ua/
+/^From:.*\@dvmhoevestein.nl/
+/^From:.*\@ihr-?tarif-?test.net/
+/^From:.*\@kosten-?minimieren.(net|org)/
+/^From:.*\@pkv-?satzsenken.com/
+/^From:.*\@beitrags-?senkung.org/
+/^From:.*\@papal.de/
+/^From:.*\@neueversicherung-?20..\.org/
+/^Subject:.*Re: Unser Inkassoauftrag/
+/^From:.*\@supertarif.org/
+/^From:.*\@ertimethe.co.ua/
+/^From:.*\@tarife-?uebersicht.org/
+/^From:.*\@onetime.biz.ua/
+/^From:.*\@folineper.co.ua/
+/^Thread-Topic:.*Verify your Apple ID/
+/^From:.*AppIe ID.*kitty.*\@mailbox.org/
+/^From:.*\@buv-?tarif.net/
+/^Subject:.*Payment Information/
+/^From:.*\@love-?no-?limits.com/
+/^From:.*\@rlv-?tarife.net/
+/^From:.*\@pflegezusatz-?tarife.org/
+/^From:.*\@pkv-?tarife-?2017.org/
+/^From:.*\@sieger-?tarif-?pkv.org/
+/^From:.*\@optionensystem.com/
+/^From:.*\@dynamictrainingstudio.com/
+/^From:.*\@super-?versicherung.net/
+/^From:.*\@buv-?ueberblick.net/
+/^From:.*\@guenstige-?bhv.org/
+/^From:.*\@versicherungen-?getestet.com/
+/^From:.*\@preiswerteversicherung.net/
+/^From:.*\@bewaldete.loan/
+/^From:.*\@massiger.trade/
+/^From:.*\@schwerer.loan/
+/^From:.*\@abgeflacht.win/
+/^From:.*\@(bewohnen|selbst)\.accountant/
+/^From:.*\@erreichen.top/
+/^From:.*\@drinamedia.com/
+/^From:.*\@neueste-?tarifnews.org/
+/^From:.*\@bhv-?testsieger.org/
+/^From:.*\@beste-rlv.com/
+/^From:.*\@rlv-news.net/
+/^From:.*\@bhv-ueberblick.com/
+/^From:.*\@qwdre.xyz/
+/^From:.*\@biznews247.co/
+/^From:.*\@versicherung-?tarife.org/
+/^From:.*\@tarife-pkv.net/
+/^From:.*\@siegertarif-?pkv.com/
+/^From:.*\@tarifuebersicht-januar2017.info/
+/^From:.*\@neuer(pkv|bhv)tarif.(com|online|org)/
+/^From:.*\@neuertarifvergleich.net/
+/^From:.*\@pflegezusatznews.net/
+/^From:.*\@bhvaktionstarif.com/
+/^From:.*\@pflegezusatz-tarife.(com|net)/
+/^From:.*\@rosemount.pw/
+/^From:.*\@divinprime.org/
+/^From:.*\@geprueftetarife.com/
+/^From:.*\@drinkingrecipes.com/
+/^Subject:.*Read Now: Why this company.*s shares are guaranteed to soar next week./
+/^Subject:.*This public company is being bought out. Read now to profit from it./
+/^From:.*\@neue-pkvuebersicht.com/
+/^From:.*\@bhv-uberblick.online/
+/^From:.*\@besterpkvtarif.org/
+/^From:.*\@pkvtariftestsieger.net/
+/^From:.*\@super-bhvtarif.com/
+/^From:.*\@bhvpruefen.net/
+/^From:.*\@int(ł|l)\.p(α|a)yp(α|a)(ł|l).\.com.* .*\@.*/
+/^From:.*services\@intl.payp=CE=B1=C5=82.com.*/
+/^From:.*\@buv-?testsieger.com/
+/^Subject:.*MAILBOX FINAL WARNING: Account/
+/^From:.*\@billiger.de.cc/
+/^From:.*\@beratung-?vorsorge.org/
+/^From:.*\@tarif-?neuheiten.com/
+/^From:.*\@bu-versicherung.co/
+/^Subject:.*Generika.*Rezept/i
+/^From:.*\@meine-buv.net/
+/^From:.*\@neuer-?bhv-?tarif.net/
+/^Subject:.*Generika - schnell, sicher und ohne Rezept/
+/^From:.*Generika Testpacket/
+/^Received:.*from ...\.yandex\.ru \(unknown/
+/^Subject:.*Security reasons : Account will be closed/
+/^Subject:.*Produkten fur mannliche Gesundheit/
+/^Subject:.*Seminar: \"Wie Real Estate zum Kaufen in.*/
+/^From:.*Company-Premium-Outlet/
+/^Reply-To:.*\@geldgeber.site/
+/^Reply-To:.*\@zkillster.eu/
+/^Reply-To:.*\@die-versicherungsvergleicher.com/
+/^Reply-To:.*\@fb-starter-edition.com/
+/^Reply-To:.*\@pzvtarif-testsieger.net/
+/^Reply-To:.*\@aktuelles-angebot.net/
+/^Subject:.*ist eine Korrekturhilfe für den großen Zeh/
+/^From:.*Valgus Pro/
+/^Subject:.*Ihre Automatische Kontoabbuchung/
+/^X-Authentication-Warning:.*informix set sender to.*/
+/^Reply-To:.*\@tech-center.com/
+/^Subject:.*Vertrauliche Beratung & neutrale Verpackung/
+/^From:.*Original Markenmedikamente/
+/^Subject:.*Dieser eine Trick verbrennt 1kg Bauchfett über Nacht/
+/^From:.*Email Security Team/
+/^Subject:.*Email Storage Alert/
+/^From:.*(Online Apotheke|Apotheke Online)/
+/^Subject:.*ohne Rezept/
+/^Subject:.*(Beste Qualität von Arzneimitteln|=?utf-8?B?QmVzdGUgUXVhbGl0w6R0IHZvbiBBcnpuZWltaXR0ZWxu?=)/
+/^X-Mailer-RecptId:.*3967954/
+/^X-Mailer-RecptId:.*5836551/
+/^X-Mailer-RecptId:.*4951278/
+/^X-Mailer-RecptId:.*11436443/
+/^Reply-To:.*\@begindust.com/
+/^Reply-To:.*\@besterzahnzusatztarif.com/
+/^Reply-To:.*\@pflege-vorsorgen.com/
+/^Reply-To:.*\@okustra.org/
+/^X-Mailer-RecptId:.*380018/
+/^X-Mailer-RecptId:.*32223912/
+/^Reply-To:.*michaellandon128\@aol.com/
+/^X-Mailer-RecptId:.*5802621/
+/^X-Vjff-Customer-Uid:.*eg456mvl11f74/
+/^Cc:.*\@consultant.com/
+/^Reply-To:.*un334996\@gmail.com/
+/^X-Mailer-RecptId:.*6335407/
+/^X-Mailer-RecptId:.*860614/
+/^X-Mailer-RecptId:.*121947/
+/^X-Mailer-RecptId:.*12431/
+/^Subject:.*Best prices on Pills/
+/^From:.*Online Pharmacy/
+/^Subject:.*Die Rechtsstaatlichkeit in der BRD ist dank Altparteien am Ende. Polizei in Erfurt empfiehlt die AfD/
+/^From:.*Administrator.*no-reply\@postmaster.net/
+/^X-Mailer-RecptId:.*6617599/
+/^From:.*\@multi-expo.eu/
+/^From:.*\@spa-hotel.biz.ua/
+/^Subject:.*Reite auf der Bitcoin Bitcoin Welle und verdiene/
+/^From:.*\@monerio.co.ua/
+/^From:.*\@tritor.co.ua/
+/^From:.*\@vaviloner.co.ua/
+/^From:.*\@toyomag.biz.ua/
+/^Subject:.*E-Mail-Datenbank fürs Geschäft - DEUTSCHLAND/
+/^From:.*noreply\@express-contacts.com/
+/^From:.*\@hutorec.co.ua/
+/^Subject:.*Was ist die Swiss Method?/
+/^From:.*\@sofort-angebot.science/
+/^From:.*\@united-software.online/
+/^From:.*\@graspskillsagilepractitioner.com/
+/^From:.*\@treeleaves.co/
+/^From:.*\@alfahost.co.ua/
+/^From:.*\@multi-expo.eu/
+/^Subject:.*Schnelle Lieferung Tabletten/
+/^From:.*Schnelle Lieferung Tabletten/
+/^Subject:.*Kredit nach Bedarf/
+/^From:.*KreditBank/
+/^Subject:.*Potenzpillen mit der Lieferung/
+/^Subject:.*Wir finanzieren Ihre Firma ohne Bank/
+/^Subject:.*ist eingriffslose Entfettung vom Bauch und Seiten/
+/^Subject:.*Sicherheit in Helligkeit/
+/^Subject:.*=?utf-8?B?UG90ZW56bWl0dGVsIGbDvHIgTcOkbm5lcg==?=/
+/^Sender:.*mailbizd.xyz/
+/^Sender:.*isnet.net.tr/
+/^From:.*\@visonfolk.com/
+/^From:.*\@sunrise.co.ua/
+/^From:.*\@winderom.co.ua/
+/^X-OriginalSender:.*mail.deutschland.r\@naturvalencia.eu/
+/^Subject:.*Betrifft: Endlich sind sie hier/
+/^X-Mailer-RecptId:.*5522815/
+/^Message-ID:.*tipptoplaptop.activehosted.com.*/
+/^From:.*\@valatel.com.*/
+/^Subject:.*Dringend! Sichern Sie Ihre E-Mail-Adresse/
+/^From:.*\@micromarineindia.com.*/
+/^List-Unsubscribe:.*winzer.co.ua\/ru/
+/^From:.*\@winzer.co.ua.*/
+/^Message-ID:.*voros.dima.hu.*/
+/^X-Mailgun-Sending-Ip:.*104.130.96.11/
+/^Return-Path:.*route66logocoupon\.com\@maildedi2\.com.*/
+/^Return-Path:.*videoanimationltd\.com\@maildedi2\.com.*/
+/^Return-Path:.*ghost-writingltd\.com\@maildedi2\.com.*/
+/^Return-Path:.*retrocubes\.com\@maildedi2\.com.*/
+/^Return-Path:.*videosharks\.org\@maildedi2\.com.*/
+/^Return-Path:.*fifthavenuelogocoupon\.com\@maildedi2\.com.*/
+/^Return-Path:.*best2018seocompany\.com\@maildedi2\.com.*/
+/^List-Unsubscribe:.*vilkov\.biz\.ua.*/
+/^List-Unsubscribe:.*vipperson\.eu.*/
+/^List-Unsubscribe:.*teeperos\.eu.*/
+/^From:.*dtoomey\@vermontel.net/
+/^Subject:.*Incoming Mails On Hold/
+/^Subject:.*Unlock Account Access/
+/^From:.*Directpay Co. KG/
+/^Subject:.*Subject: Kontoabbuchung konnte nicht vorgenommen werden/
+/^Disposition-Notification-To:.*Mailbox.org.* .*\@mailbox.org/
+/^From:.*\"Mailbox.org\"/
+/^Subject:.*Langer durchhalten. Beste Pillen für Sex/
+/^From:.*\"Potenzmittel Online\"/
+/^Subject:.*damit Man sicher ist/
+/^Subject:.*Re: Kontaktieren Sie mich bitte/
+/^Subject:.*Neuen Bankkredit in 8 Tagen ist real\!/
+/^Subject:.*Potenzmittel rezeptfrei kaufen sicher und diskret/
+/^From:.*krankenversicherung-getestet\.live.*/
+/^From:.*guenstig-aber-gut\.co.*/
+/^From:.*12gewechselt\.info.*/

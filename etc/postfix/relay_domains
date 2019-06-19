@@ -1,7 +1,0 @@
-##
-## Ansible managed: /home/cr/ansible/playbook-kurs-antispam-master/roles/postfix-mx/templates/etc/postfix/relay_domains.j2 modified on 2019-03-04 13:28:16 by cr on cr2.heinlein-support.de
-##
-# Example Relay Domains
-# example.com   smtp:[10.0.0.1]:2525
-rspamd.slac2018.de  lmtp:[127.0.0.1]:24
-slac2018.de  lmtp:[127.0.0.1]:24

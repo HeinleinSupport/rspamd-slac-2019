@@ -1,5 +1,0 @@
-##
-## Ansible managed: /home/cr/ansible/playbook-kurs-antispam-master/import/roles/role-postfix-base/templates-db/etc/postfix/access_sender_tls.j2 modified on 2019-04-05 17:36:15 by cr on cr2.heinlein-support.de
-##
-# example.org     reject_plaintext_session, permit_tls_all_clientcerts, reject
-# example.net     reject_plaintext_session

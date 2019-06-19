@@ -1,4 +1,0 @@
-##
-## Ansible managed: /home/cr/ansible/playbook-kurs-antispam-master/import/roles/role-postfix-base/templates-db/etc/postfix/access_ccert.j2 modified on 2019-04-05 17:32:20 by cr on cr2.heinlein-support.de
-##
-# D7:04:2F:A7:0B:8C:A5:21:FA:31:77:E1:41:8A:EE:80 REJECT
